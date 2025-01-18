@@ -1,0 +1,3 @@
+
+print("Assalamu Alaikum Everyone")
+ 
